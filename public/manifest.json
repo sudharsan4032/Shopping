@@ -1,0 +1,15 @@
+{
+  "short_name": "DevShop",
+  "name": "E-commerce store made with react",
+  "icons": [
+    {
+      "src": "devshop-logo.png",
+      "sizes": "164x156",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff2876",
+  "background_color": "#ffffff"
+}
